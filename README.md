@@ -8,9 +8,32 @@ The theme of this program is handling bank accounts.
 <p> Concepts of Object Oriented Programming like data abstraction, data encapsulation, modularity and inheritance have been used in the program to give it more object based approach rather than a procedural approach and also develop real world relationships. Functions are used to break the program into several segments. Accessor functions have been used to access the data but not modify it. Mutator functions have been used to modify the data. </p>
 
 ## Data Required for Input
-1.	name                                                                Account Holder’s Name
-2.	acc_no                                                             Account Number
-3.	acc_type                                        Type of account(Current/Savings)
-4.	deposit
+-	name (Account Holder’s Name)
+- acc_no (Account Number)
+- acc_type (Type of account(Current/Savings))
+- deposit
+
+## Functions Performed
+- Create account
+- Deposit amount
+- Withdraw amount
+- Check balance
+- Impose penalty (current)
+- Calculate interest (savings)
+- Exit
+
+## System Requirements
+- Minimum of 128 MB RAM
+- Minimum processor type – Pentium II
+- Minimum processor speed – 400 MHz
+- Additional Requirements – CD-ROM, HDMI monitor, mouse and keyboard, also other compatible devices.
+- Operating System – Microsoft Windows 98 or better, linux ubunto or better. 
+- C++ Compiler – Borland c++, Turbo c++, Visual Studio 2015 or better.
+
+
+
+
+
+
 
 
