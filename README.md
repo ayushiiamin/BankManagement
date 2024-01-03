@@ -6,3 +6,11 @@ The theme of this program is handling bank accounts.
 <p> The program first starts with the class account where many essential functions are performed. During execution, the user is first asked to create a new account and this information is stored in the file – account.dat. The user can deposit and withdraw cash from his account and also he can view the details of his account after any updating. If the user feels like closing his account, he has the opportunity to do so. </p>
 
 <p> Concepts of Object Oriented Programming like data abstraction, data encapsulation, modularity and inheritance have been used in the program to give it more object based approach rather than a procedural approach and also develop real world relationships. Functions are used to break the program into several segments. Accessor functions have been used to access the data but not modify it. Mutator functions have been used to modify the data. </p>
+
+## Data Required for Input
+1.	name                                                                Account Holder’s Name
+2.	acc_no                                                             Account Number
+3.	acc_type                                        Type of account(Current/Savings)
+4.	deposit
+
+
